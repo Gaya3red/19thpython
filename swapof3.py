@@ -14,7 +14,7 @@ if(x>y and x>z):
 elif (y>x and y>z):
     if(x<z):
         temp=y
-        x=z
+        y=z
         z=temp
     else:
         temp=y
