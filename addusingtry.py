@@ -8,4 +8,10 @@ def add():
     except ValueError as err:
         print(err)
     print(a+b)
-add()
+add() 
+
+//another Code :
+
+def addNumber(a,b):
+    return a+b
+sum=addNumber(10,30)
