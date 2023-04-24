@@ -8,9 +8,7 @@ def add():
     except ValueError as err:
         print(err)
     print(a+b)
-add() 
-
-//another Code :
+add()
 
 def addNumber(a,b):
     return a+b
