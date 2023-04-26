@@ -1,7 +1,7 @@
 class School:
     name = "Pritam"
-    def getAge():
-        return self.age
+    def getAge(self):
+        return "20"
 class SubSchool(School):
     def _init_(self):
         print("Child Constructor")
