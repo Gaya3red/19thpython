@@ -9,7 +9,7 @@ class dog(Animal):
 class tarak(Animal):
     def canFly(self):
         print("tarak can fly")
-my_tarak = tarak()
-print(my_tarak.canFly())
+#my_tarak = tarak()
+#print(my_tarak.canFly())
 
         
